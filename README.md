@@ -1,4 +1,4 @@
-# 50 Days of UI Development
+# 10 Days of UI Development
 
 This repository is used to documents my journey into what I call the 50 Days of UI Development. This little endeavour is a sort-of back to the roots in UI Development. Most of these mini-projects are simple, visually pleasing demonstrations of what can be done with
 
